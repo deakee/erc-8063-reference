@@ -2,7 +2,7 @@
 
 Reference implementation of **[ERC-8063: Groups — Membership Tokens](https://ercs.ethereum.org/ERCS/erc-8063)**.
 
-Authored by [Cheng Qian](https://github.com/deakee) — sole author of ERC-8063, ERC-7743, and ERC-7837.
+Authored by [jamesavechives](https://github.com/deakee) — sole author of ERC-8063, ERC-7743, and ERC-7837.
 
 ---
 
